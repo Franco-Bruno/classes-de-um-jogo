@@ -20,5 +20,5 @@ class hero{
     }
 }
 
-let heroSelected = new hero('Jack Chan', 40, 'Mago');
+let heroSelected = new hero('Jack Chan', 40, 'Ninja');
 heroSelected.attack();
